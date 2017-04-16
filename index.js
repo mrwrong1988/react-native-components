@@ -9,6 +9,7 @@ import LceView from "./LceView/LceView";
 import LceList from "./LceView/LceList";
 import OptionMenu from "./Menu/OptionMenu";
 import ContentMenu from "./Menu/ContentMenu";
+import CheckBox from "./Checkbox/CheckBox";
 const RnUI = {
 	StatusBar,
     Header,
@@ -21,6 +22,7 @@ const RnUI = {
     LceList,
     OptionMenu,
     ContentMenu,
+    CheckBox,
 };
 
 export default RnUI;
