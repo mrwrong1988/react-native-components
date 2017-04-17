@@ -9,6 +9,10 @@ import LceView from "./LceView/LceView";
 import LceList from "./LceView/LceList";
 import OptionMenu from "./Menu/OptionMenu";
 import ContentMenu from "./Menu/ContentMenu";
+import LabelList from "./LabelList/LabelList";
+import Button from "./Button/Button";
+import LinearGradientBtn from "./Button/LinearGradientBtn";
+
 const RnUI = {
 	StatusBar,
     Header,
@@ -21,6 +25,9 @@ const RnUI = {
     LceList,
     OptionMenu,
     ContentMenu,
+    LabelList,
+    Button,
+    LinearGradientBtn,
 };
 
 export default RnUI;
